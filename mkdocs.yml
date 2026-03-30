@@ -1,0 +1,93 @@
+site_name: From Knowledge to Judgement
+site_description: A Framework for Accelerated Multi-Disciplinary Mastery in High-Complexity Environments
+site_author: Osioke Itseuwa
+site_url: https://osioke.github.io/from-knowledge-to-judgement
+
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  custom_dir: docs/overrides
+  language: en
+  palette:
+    - scheme: default
+      primary: black
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.tooltips
+  icon:
+    repo: fontawesome/brands/github
+
+repo_name: from-knowledge-to-judgement
+repo_url: https://github.com/osioke/from-knowledge-to-judgement
+
+nav:
+  - Home: index.md
+  - The Paper:
+    - "Section 1 — The Problem": section-1-problem.md
+    - "Section 2 — The Framework": section-2-framework.md
+    - "Section 3 — Instructional Deconstruction": section-3-deconstruction.md
+    - "Section 4 — The Thinking Frameworks": section-4-frameworks.md
+    - "Section 5 — The Execution Loop": section-5-execution-loop.md
+    - "Section 6 — Execution Intuition": section-6-intuition.md
+    - "Section 7 — Implementation": section-7-implementation.md
+    - "Section 8 — Conclusion": section-8-conclusion.md
+  - Appendices: appendices.md
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - toc:
+      permalink: true
+      title: On this page
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/osioke
+  generator: false
+
+extra_css:
+  - stylesheets/extra.css
+
+copyright: >
+  © 2025 Osioke Itseuwa. Published under
+  <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>.
+  Share freely. Attribute clearly.
