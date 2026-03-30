@@ -4,7 +4,7 @@
 
 ## 2.1 Framing the Model
 
-Every person who operates in a professional environment is, in effect, running a system. They are processing inputs — problems, information, requests, constraints — and producing outputs — decisions, work, communication, results. The quality of those outputs is determined not just by what they know, but by how their processing works: how they categorise problems, which mental models they apply, how quickly they reach a working hypothesis, and how effectively they update that hypothesis when new information arrives.
+Every person who operates in a professional environment is, in effect, running a system. They are processing inputs — problems, information, requests, constraints — and producing outputs — decisions, work, communication, results. The quality of those outputs is determined not just by what they know, but by how their processing works: how they categorise problems, which mental models they apply, how quickly they reach a working hypothesis, and how effectively they update that hypothesis when new information arrives (Sweller, 1988).
 
 The **Human Operating System (HOS)** is a framework for upgrading that processing.
 

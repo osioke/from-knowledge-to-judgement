@@ -6,7 +6,7 @@
 
 Knowledge that is never tested against reality decays.
 
-This is not a motivational claim. It is a cognitive one. The research on skill retention is consistent: competencies that are not actively used — not just recalled, but *applied* — degrade at a rate that makes even substantial prior investment largely irrelevant within a few years. A practitioner who completes a rigorous course in market analysis and then does not apply market analysis skills in real contexts will find, two years later, that the course has left them with vocabulary and a vague memory of frameworks, but little capacity for reliable execution.
+This is not a motivational claim. It is a cognitive one. The research on skill retention is consistent: competencies that are not actively used — not just recalled, but *applied* — degrade at a rate that makes even substantial prior investment largely irrelevant within a few years (Ericsson et al., 1993). A practitioner who completes a rigorous course in market analysis and then does not apply market analysis skills in real contexts will find, two years later, that the course has left them with vocabulary and a vague memory of frameworks, but little capacity for reliable execution.
 
 The learning that sticks is the learning that gets used.
 

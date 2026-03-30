@@ -38,6 +38,8 @@ If you are building a team: run a Recipe retrospective on your last significant 
 
 If you are thinking about professional development at an organisational or systemic level: the TTLS metric is worth measuring. The number will surprise you. And the direction it moves with deliberate practice will too.
 
+The HOS is a specific, tested, open-source implementation of the principles first explored in the GIS. For those interested in the foundational research on collective intelligence and community-led growth that preceded this model, the full text is available at [Building Communities into Economies](https://growth-clinic.github.io/gis-book/).
+
 ---
 
 > *"The future belongs not to those who know the most, but to those who can judge the fastest in territory they have never been in before."*

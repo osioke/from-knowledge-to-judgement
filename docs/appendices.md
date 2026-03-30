@@ -90,25 +90,20 @@ CONTEXT NOTES (optional):
 
 ---
 
-## Appendix D — Suggested Further Reading
+## Appendix D — Bibliography & Foundations
 
-The HOS draws on a body of established research in learning science, expertise development, and decision-making. The following works are recommended for practitioners who want to explore the theoretical foundations in depth.
+The HOS framework is built upon established research in cognitive science, expertise development, and the author's previous work on community-led systems.
 
-**On Deliberate Practice and Expertise Development**
-- Anders Ericsson and Robert Pool — *Peak: Secrets from the New Science of Expertise*
-- K. Anders Ericsson — foundational research on deliberate practice (1993, Psychological Review)
+### Primary References
+* **Itseuwa, O. (2023).** *Building Communities into Economies: A Systematic Approach to Growth and Innovation.* [Link](https://growth-clinic.github.io/gis-book/)
+* **Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993).** *The role of deliberate practice in the acquisition of expert performance.* Psychological Review.
+* **Klein, G. (1998).** *Sources of Power: How People Make Decisions.* MIT Press.
+* **Sweller, J. (1988).** *Cognitive load during problem solving: Effects on learning.* Cognitive Science.
 
-**On Decision-Making and Pattern Recognition**
-- Gary Klein — *Sources of Power: How People Make Decisions*
-- Daniel Kahneman — *Thinking, Fast and Slow*
-
-**On Learning Efficiency and Cognitive Load**
-- John Sweller — original cognitive load theory research (1988)
-- Peter Brown, Henry Roediger, Mark McDaniel — *Make It Stick: The Science of Successful Learning*
-
-**On Mental Models and Multi-Disciplinary Thinking**
-- Charlie Munger — *Poor Charlie's Almanack*
-- Shane Parrish — *The Great Mental Models* series
+### Theoretical Foundations
+* **Deliberate Practice:** Built on the work of Anders Ericsson regarding the necessity of immediate feedback and scenario volume for mastery.
+* **Mental Models:** Draws from Charlie Munger’s "Latticework of Mental Models" (2005) and Shane Parrish’s synthesis of multi-disciplinary thinking.
+* **Cognitive Load Theory:** Implementation of Instructional Deconstruction based on John Sweller's research on reducing extraneous cognitive load to accelerate skill acquisition.
 
 ---
 

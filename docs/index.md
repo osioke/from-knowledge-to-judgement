@@ -28,6 +28,8 @@ The **Human Operating System (HOS)** is a model for high-velocity, multi-discipl
 
 3. **The Execution Loop** — a live feedback system in which real-world execution is tracked and rewarded, while expert judgement is trained through deliberate scenario sparring — converting experience into reusable knowledge artefacts called *Career Recipes*.
 
+This framework represents the professional evolution of the **Gamified Instructional System (GIS)**, originally detailed in [Building Communities into Economies](https://growth-clinic.github.io/gis-book/).
+
 The paper argues that the ultimate objective of modern professional development is not knowledge accumulation but the cultivation of **Execution Intuition** — the capacity to make fast, accurate decisions in unfamiliar territory. Generative AI, properly deployed, is not a replacement for this intuition. It is the most powerful sparring partner ever built for developing it.
 
 ---
