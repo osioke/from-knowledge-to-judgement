@@ -2,10 +2,15 @@
    FROM KNOWLEDGE TO JUDGEMENT — Custom Styles
    ============================================ */
 
-/* Typography */
+/* Typography & Global Spacing */
 :root {
-  --md-text-font: "Inter", sans-serif;
-  --md-code-font: "JetBrains Mono", monospace;
+  --md-text-font: "Crimson Pro", serif;
+  --md-code-font: "Fira Code", monospace;
+}
+
+.md-typeset {
+    font-size: 0.95rem;
+    line-height: 1.8; /* Optimized for long-form reading */
 }
 
 /* Hero section on landing page */
@@ -81,11 +86,17 @@ blockquote p {
   background-color: #ff6d00;
 }
 
-/* Image figures */
+/* Image figures - with added shadow styling */
 .md-typeset img {
   border-radius: 4px;
   display: block;
   margin: 1.5rem auto;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08); /* Adds "paper" depth */
+}
+
+/* Specific styling for the hero banner to make it prominent */
+img[src*="hero-banner"] {
+    box-shadow: 0 10px 40px rgba(0,0,0,0.15) !important;
 }
 
 /* Table styling */
