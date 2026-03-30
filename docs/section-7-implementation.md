@@ -18,6 +18,11 @@ Complete five rounds of scenario sparring in your chosen domain. Do not skim the
 
 After ten rounds, notice which types of flaws you are consistently missing. This identifies a specific gap in your pattern recognition — not a vague sense that you need to "get better" at the domain, but a precise category of problem where your framework is not yet firing reliably.
 
+!!! tip "Live Implementations"
+    The principles in this paper are available as open-source tools:
+    * **[SYD Protocol Terminal](https://syd-protocol.github.io/terminal/):** The current reference implementation for high-velocity execution tracking and sparring.
+    * **[Slop Runner](https://slop-runner.github.io/game):** An earlier experimental implementation focusing on the core pattern recognition mechanics.
+
 **Month 1 — Execute and Capture**
 
 Begin logging your real-world execution in the tracking protocol. Do not try to log everything — log the decisions that required judgement. At the end of each week, look for one decision that went well. Write a Recipe from it: what was the trigger, what were the steps, what was the outcome.

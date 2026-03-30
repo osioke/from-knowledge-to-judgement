@@ -23,8 +23,8 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   font:
-    text: Inter
-    code: JetBrains Mono
+    text: Crimson Pro
+    code: Fira Code
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -81,6 +81,8 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/osioke
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/osioke
   generator: false
 
 extra_css:

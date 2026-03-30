@@ -112,4 +112,15 @@ The HOS draws on a body of established research in learning science, expertise d
 
 ---
 
+## Appendix E — Tools & Reference Implementations
+
+The following tools provide the software infrastructure for the Execution Loop:
+
+* **SYD Protocol (Current):** [syd-protocol.github.io/terminal](https://syd-protocol.github.io/terminal/)  
+    A gamified, terminal-style interface for logging real-world execution and deliberate practice.
+* **Slop Runner (Legacy):** [slop-runner.github.io/game](https://slop-runner.github.io/game)  
+    A prototype designed to test the initial mechanics of the pattern-recognition loop.
+
+---
+
 [← Section 8](section-8-conclusion.md) | [↑ Back to Home](index.md)
