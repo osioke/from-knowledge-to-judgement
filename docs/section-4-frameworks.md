@@ -14,6 +14,8 @@ Frameworks are, in essence, borrowed pattern recognition. They are the accumulat
 
 The HOS maintains five open frameworks — one for each of the core professional disciplines most commonly encountered in high-complexity environments.
 
+While the HOS maintains these five initial frameworks, they are not intended to be an exhaustive list of all professional knowledge. These specific domains were selected because they represent the core disciplines most commonly encountered in the high-complexity technology environments where this model was first developed and tested. If you find that these categories do not sufficiently capture your organization’s specific institutional memory, you are encouraged to 'fork' the framework and build out entirely new domains using the principles of Instructional Deconstruction. We invite you to contribute these back to the project; it is only through this community contribution that the operating system can truly grow and capture the full breadth of expert judgment across all industries.
+
 ---
 
 ## 4.2 The Five Domains
